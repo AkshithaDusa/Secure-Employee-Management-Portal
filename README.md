@@ -1,9 +1,9 @@
 # Springboot Project
-# Employee Management System
+# Secure Employee Management Portal
 
 ## 📌 Overview
 
-The Employee Management System (EMS) is a web-based application developed using **Spring Boot**, **Spring MVC**, **Thymeleaf**, and **Spring Data JPA**. It streamlines employee data management by offering a centralized, secure, and user-friendly interface for managing employee records.
+The Secure Employee Management Portal is a web-based application developed using **Spring Boot**, **Spring MVC**, **Thymeleaf**, and **Spring Data JPA**. It streamlines employee data management by offering a centralized, secure, and user-friendly interface for managing employee records.
 
 ---
 
